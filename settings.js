@@ -1,5 +1,5 @@
 {
-  // This sets jupyter-notebook as the workbench for ipynb files.
+  // This sets jupyter-notebook as the workbench for ipynb files
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
   },
